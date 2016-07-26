@@ -20,9 +20,9 @@
     <title>{{isset($title) ? $title : 'Panel'}}</title>
     <!-- compiled styles -->
 
+    <link href="{{asset("packages/serverfireteam/panel/css/sb-admin-2-rtl.css")}}" rel="stylesheet" type="text/css">
+    <link href="{{asset("packages/serverfireteam/panel/css/bootstrap-rtl.min.css")}}" rel="stylesheet" type="text/css">
 
-    <link href="{{asset("packages/serverfireteam/panel/css/styles.css")}}" rel="stylesheet" type="text/css">
-    <link href="{{asset("packages/serverfireteam/panel/font-icon/icomoon/style.css")}}" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

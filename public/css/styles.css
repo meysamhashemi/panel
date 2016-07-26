@@ -7762,7 +7762,7 @@ body {
   float: right;
   margin: 11px;
   position: absolute;
-  right: 0px;
+  left: 0px;
 }
 #side-menu li:hover .items-bar {
   transform: translateX(0px);

@@ -4,7 +4,7 @@
             <div class="row">
 
                 <div class="col-lg-12">
-                    <h1 class="page-header">{{ \Lang::get('panel::fields.dashboard') }}</h1>
+                    <h1 class="page-header">{{ config('panel.fields.dashboard') }}</h1>
                     <div class="icon-bg ic-layers"></div>
                 </div>
                             
